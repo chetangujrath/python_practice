@@ -1,0 +1,17 @@
+WARNING:root:this may break
+ERROR:root:this is error,fixed it
+CRITICAL:root:this is crritical,fixed it
+2026-06-18 23:13:06,179 - WARNING - this may break
+2026-06-18 23:13:06,179 - ERROR - this is error,fixed it
+2026-06-18 23:13:06,179 - CRITICAL - this is crritical,fixed it
+2026-06-18 23:13:18,501 - WARNING - this may break
+2026-06-18 23:13:18,501 - ERROR - this is error,fixed it
+2026-06-18 23:13:18,501 - CRITICAL - this is crritical,fixed it
+2026-06-18 23:17:41,553 - INFO - this is info
+2026-06-18 23:17:41,553 - WARNING - this may break
+2026-06-18 23:17:41,554 - ERROR - this is error,fixed it
+2026-06-18 23:17:41,556 - CRITICAL - this is crritical,fixed it
+2026-06-18 23:17:52,058 - INFO - this is info
+2026-06-18 23:17:52,058 - WARNING - this may break
+2026-06-18 23:17:52,058 - ERROR - this is error,fixed it
+2026-06-18 23:17:52,058 - CRITICAL - this is crritical,fixed it
