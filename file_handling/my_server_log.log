@@ -1,48 +1,8 @@
-<<<<<<< HEAD
-WARNING:root:this may break
-ERROR:root:this is error,fixed it
-CRITICAL:root:this is crritical,fixed it
-2026-06-18 23:13:06,179 - WARNING - this may break
-2026-06-18 23:13:06,179 - ERROR - this is error,fixed it
-2026-06-18 23:13:06,179 - CRITICAL - this is crritical,fixed it
-2026-06-18 23:13:18,501 - WARNING - this may break
-2026-06-18 23:13:18,501 - ERROR - this is error,fixed it
-2026-06-18 23:13:18,501 - CRITICAL - this is crritical,fixed it
-2026-06-18 23:17:41,553 - INFO - this is info
-2026-06-18 23:17:41,553 - WARNING - this may break
-2026-06-18 23:17:41,554 - ERROR - this is error,fixed it
-2026-06-18 23:17:41,556 - CRITICAL - this is crritical,fixed it
-2026-06-18 23:17:52,058 - INFO - this is info
-2026-06-18 23:17:52,058 - WARNING - this may break
-2026-06-18 23:17:52,058 - ERROR - this is error,fixed it
-2026-06-18 23:17:52,058 - CRITICAL - this is crritical,fixed it
-2026-06-18 23:30:35,695 - INFO - this is info
-2026-06-18 23:30:35,695 - WARNING - this may break
-2026-06-18 23:30:35,695 - ERROR - this is error,fixed it
-2026-06-18 23:30:35,696 - CRITICAL - this is crritical,fixed it
-2026-06-18 23:30:37,269 - INFO - this is info
-2026-06-18 23:30:37,269 - WARNING - this may break
-2026-06-18 23:30:37,269 - ERROR - this is error,fixed it
-2026-06-18 23:30:37,269 - CRITICAL - this is crritical,fixed it
-2026-06-18 23:30:37,983 - INFO - this is info
-2026-06-18 23:30:37,983 - WARNING - this may break
-2026-06-18 23:30:37,983 - ERROR - this is error,fixed it
-2026-06-18 23:30:37,984 - CRITICAL - this is crritical,fixed it
-2026-06-18 23:30:38,626 - INFO - this is info
-2026-06-18 23:30:38,626 - WARNING - this may break
-2026-06-18 23:30:38,626 - ERROR - this is error,fixed it
-2026-06-18 23:30:38,626 - CRITICAL - this is crritical,fixed it
-2026-06-18 23:30:39,276 - INFO - this is info
-2026-06-18 23:30:39,277 - WARNING - this may break
-2026-06-18 23:30:39,277 - ERROR - this is error,fixed it
-2026-06-18 23:30:39,277 - CRITICAL - this is crritical,fixed it
-2026-06-18 23:30:39,928 - INFO - this is info
-2026-06-18 23:30:39,929 - WARNING - this may break
-2026-06-18 23:30:39,929 - ERROR - this is error,fixed it
-2026-06-18 23:30:39,929 - CRITICAL - this is crritical,fixed it
-=======
-2026-06-18 23:59:25,556 - INFO - this is info
-2026-06-18 23:59:25,557 - WARNING - this may break
-2026-06-18 23:59:25,557 - ERROR - this is error,fixed it
-2026-06-18 23:59:25,557 - CRITICAL - this is crritical,fixed it
->>>>>>> eefac3b (add file again)
+2026-06-19 00:07:25,123 - INFO - this is info
+2026-06-19 00:07:25,124 - WARNING - this may break
+2026-06-19 00:07:25,124 - ERROR - this is error,fixed it
+2026-06-19 00:07:25,124 - CRITICAL - this is crritical,fixed it
+2026-06-19 00:07:27,156 - INFO - this is info
+2026-06-19 00:07:27,156 - WARNING - this may break
+2026-06-19 00:07:27,156 - ERROR - this is error,fixed it
+2026-06-19 00:07:27,156 - CRITICAL - this is crritical,fixed it
