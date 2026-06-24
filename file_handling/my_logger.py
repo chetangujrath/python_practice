@@ -12,5 +12,7 @@ logging.error("this is error,fixed it")
 
 logging.critical("this is crritical,fixed it")
 
+print("Logs are successfully maintained in log file.")
+
 
 
